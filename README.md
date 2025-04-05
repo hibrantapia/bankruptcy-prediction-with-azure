@@ -46,7 +46,7 @@ Nota: Las columnas deben coincidir exactamente con las usadas durante el entrena
 ## Requisitos mínimos del sistema
 
 - Sistema Operativo: Windows 10/11, macOS 12+ o Linux.
-- RAM: 4 GB (8 GB recomendados si usás entornos como VS Code o Jupyter Lab).
+- RAM: 4 GB (8 GB recomendados).
 - CPU: Procesador de al menos 2 núcleos (Intel i5 o equivalente).
 - Python: Versión 3.9 o superior.
 - Librerías requeridas: `pandas`, `scikit-learn`, `numpy`, `requests`, `azureml-core`.
